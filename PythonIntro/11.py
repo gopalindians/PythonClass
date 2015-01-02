@@ -19,4 +19,8 @@ print(val[1:5]) #prints [2 3 4 5]
 
 #Common operations on List
 
-print(val.append(12))
+
+print(val)  # List before appending
+val.append(12)
+
+print(val)  #List after appending
