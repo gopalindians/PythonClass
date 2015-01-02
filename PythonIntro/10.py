@@ -1,5 +1,5 @@
 __author__ = 'gopalindians'
-# String
+# Strings
 
 
 name = "GoPaL sHaRmA"  # .count('x') - counts the number of occurrences of 'x' in stringVar
