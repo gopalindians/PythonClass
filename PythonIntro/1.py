@@ -2,7 +2,7 @@ __author__ = 'gopalindians'
 
 print("Exercises on print()  http://www.afterhoursprogramming.com/tutorial/Python/Introduction/")
 
-# Print
+# Print v1
 
 print("\nCommand: print(\"Jai\")\n\t\t print(\"mata di\")\n")
 
@@ -14,6 +14,7 @@ print("mata di")
 print("-------------------------------------------------")
 
 # v2
+
 print("Same output but command with some modification\n")
 print("Command: print(\"Jai\\nmata di\")\n")  #Same as above but in single line
 
