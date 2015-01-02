@@ -2,7 +2,7 @@ __author__ = 'gopalindians'
 # String
 
 
-name = " GoPaL            sHaRmA              "  # .count('x') - counts the number of occurrences of 'x' in stringVar
+name = "GoPaL sHaRmA"  # .count('x') - counts the number of occurrences of 'x' in stringVar
 print(name)
 
 a = name.count('a')
@@ -18,9 +18,10 @@ print(name.replace('a', 'z').upper())  # .replace('a', 'b') - replaces all occur
 
 print(name.strip())  #.strip() - removes leading/trailing white space from string
 
-print(name.capitalize())
+print(name.capitalize()) #
 
 
-print(name[1:15])
+print(name[1:15])  #use of index in string
+print(name[:-1])
 
 
